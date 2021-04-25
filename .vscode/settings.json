@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "cstdlib": "c",
+        "types.h": "c",
+        "time.h": "c",
+        "041.types.h": "c"
+    }
+}
